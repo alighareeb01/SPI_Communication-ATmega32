@@ -60,3 +60,4 @@ This project involves communication between three ATmega32 microcontrollers usin
 - `README.md`: This file.
 
 
+"# SPI_Communication-ATmega32" 
